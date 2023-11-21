@@ -49,4 +49,4 @@ TEXTO tachado
 
 ![EL SEÑOR](DIOSTIENEELCONTROL.jpg "DIOS ES BUENO")
 
-![INTERESANTE](https://www.youtube.com/watch?v=lZcKKUglVEk "THE CHOSEN")
+[![The chosen](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlZcKKUglVEk)](https://www.youtube.com/watch?v=lZcKKUglVEk)
